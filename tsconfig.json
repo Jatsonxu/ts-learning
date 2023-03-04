@@ -1,5 +1,6 @@
 {
   "files": [],
+  // 依赖的其它子项目
   "references": [
     {
       "path": "./tsconfig.node.json"
